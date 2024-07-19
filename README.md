@@ -1,1 +1,1 @@
-# csc_goilden_triangle
+# csc_golden_triangle
